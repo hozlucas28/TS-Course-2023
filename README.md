@@ -23,7 +23,7 @@
     Summary
 </h2>
 <p>
-    This is a repository where I store all lessons that I take on <a href="https://www.linkedin.com/learning/typescript-esencial" target="_blank">TypeScript<a> course of <a href="https://www.linkedin.com/learning/" target="_blank">LinkedIn Learning</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
+    This is a repository where I store all lessons that I take on <a href="https://www.linkedin.com/learning/typescript-esencial" target="_blank">TypeScript<a> course of <a href="https://www.linkedin.com/learning/" target="_blank">LinkedIn Learning</a>. I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
