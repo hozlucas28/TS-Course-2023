@@ -5,14 +5,19 @@
  * 
  * 
  * TIPO DE RETORNO:
- *                - <viod> = Indica que la función no devuelve ningun valor.
+ *                - <void> = Indica que la función no devuelve ningún valor.
  *                - <never> = Indica que nunca se retornara un valor, por ejemplo
  *                            al arrojar un error.
 -------------------------------------------------------------------------- */
 
 // Función por declaración con un dato <number> como retorno
-function sum(x: number, y: number): number {
+function fn01(x: number, y: number): number {
 	return x + y;
+}
+
+// Función por declaración con un parámetro opcional
+function fn02(x: number, y?: number): number {
+	return x && y ? x + y : x;
 }
 
 // Función flecha con un dato <boolean> como retorno
