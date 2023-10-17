@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/hozlucas28/JS-Course-2022/assets/88015479/6cb173a5-7b4c-4d85-ba91-c78eba9576df" width="500">
+    <img src="./.github/ts-logo.png" width="500">
 </p>
 
 <h2>
